@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ElectionInterface
+comment0.text=\r\n\r\n\ Interface\ for\ national\ Election.\ The\ country\ is\ divided\ into\ constituencies,\ also\ known\ as\ seats,\ which\ are\ separate\ geographical\ areas.\r\n\r\n\ You\ should\ provide\ a\ contructor\ which\ takes\ a\ String\ name\ as\ a\ parameter.\r\n\r\n\ @author\ Steven\ Bradley\r\n\ @version\ December\ 2017\r\n
+comment1.params=
+comment1.target=java.util.Set\ getConstituencies()
+comment2.params=constituency
+comment2.target=void\ addConstituency(ConstituencyInterface)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.util.Set\ getParties()
+comment4.text=\r\n\ @return\ all\ the\ parties\ that\ have\ put\ up\ candidates\ for\ the\ election\ in\ any\ constituency.\r\n
+comment5.params=party
+comment5.target=int\ seatCount(PartyInterface)
+comment5.text=\ \r\n\ @return\ the\ number\ of\ seats\ (constituencies)\ won\ by\ the\ given\ party\r\n
+comment6.params=
+comment6.target=PartyInterface\ winner()
+comment6.text=\r\n\ @return\ the\ part\ with\ the\ most\ seats\r\n
+comment7.params=
+comment7.target=CandidateInterface\ leader()
+comment7.text=\r\n\ @return\ If\ the\ winning\ party\ has\ more\ than\ 50%\ of\ the\ seats\ then\ return\ that\ party's\ leader,\ otherwise\ return\ null\r\n
+numComments=8

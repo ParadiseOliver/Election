@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=candidate
+comment0.target=void\ addCandidate(CandidateInterface)
+comment0.text=\r\n\ @param\ candidate\ to\ be\ added\ to\ the\ candidates\ selected\ in\ this\ vote\r\n
+comment1.params=
+comment1.target=boolean\ isSpoiled()
+comment1.text=\r\n\ @return\ false\ if\ and\ only\ if\ there\ is\ exactly\ one\ candidate\ selected\r\n
+comment2.params=
+comment2.target=CandidateInterface\ getCandidate()
+comment2.text=\r\n\ @return\ the\ selected\ candidate\ if\ the\ vote\ is\ not\ spoiled,\ otherwise\ return\ null\r\n
+numComments=3

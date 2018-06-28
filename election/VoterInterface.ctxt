@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getPostcode()
+comment1.params=postcode
+comment1.target=void\ setPostcode(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=age
+comment4.target=void\ setAge(int)
+comment4.text=\r\n\ @param\ age\ the\ age\ (in\ years)\ of\ the\ voter\r\n
+comment5.params=
+comment5.target=int\ getAge()
+comment5.text=\r\n\ @return\ the\ age\ (in\ years)\ of\ the\ voter\r\n
+comment6.params=
+comment6.target=boolean\ isYoung()
+comment6.text=\r\n\ @return\ true\ if\ the\ voter\ is\ young\ (under\ 25\ years)\r\n
+comment7.params=
+comment7.target=boolean\ isFemale()
+comment7.text=\r\n\ @return\ true\ if\ the\ voter\ is\ female\r\n
+comment8.params=female
+comment8.target=void\ setFemale(boolean)
+comment8.text=\r\n\ @param\ female\ true\ if\ the\ voter\ is\ female,\ otherwise\ false\r\n
+numComments=9

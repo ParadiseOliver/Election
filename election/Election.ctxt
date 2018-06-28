@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Election
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Election\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name
+comment1.target=Election(java.lang.String)
+comment2.params=
+comment2.target=java.util.HashSet\ getConstituencies()
+comment3.params=constituency
+comment3.target=void\ addConstituency(ConstituencyInterface)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.util.HashSet\ getParties()
+comment6.params=party
+comment6.target=int\ seatCount(PartyInterface)
+comment7.params=
+comment7.target=PartyInterface\ winner()
+comment8.params=
+comment8.target=CandidateInterface\ leader()
+numComments=9

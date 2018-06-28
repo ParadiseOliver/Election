@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PartyInterface\ getParty()
+comment1.params=party
+comment1.target=void\ setParty(PartyInterface)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=boolean\ isIndependent()
+comment3.text=\r\n\ @return\ true\ if\ and\ only\ if\ the\ candidate\ is\ not\ associated\ with\ a\ party\r\n
+comment4.params=
+comment4.target=boolean\ isFemale()
+comment4.text=\r\n\ @return\ true\ if\ the\ candidate\ is\ female\r\n
+comment5.params=isFemale
+comment5.target=void\ setFemale(boolean)
+comment5.text=\r\n\ @param\ female\ true\ if\ the\ candidate\ is\ female,\ otherwise\ false\r\n
+numComments=6

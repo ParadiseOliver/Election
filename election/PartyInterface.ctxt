@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CandidateInterface\ getLeader()
+comment1.params=leader
+comment1.target=void\ setLeader(CandidateInterface)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+numComments=3
